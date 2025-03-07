@@ -16,7 +16,7 @@ int main()
       "Jon Favreau",
       "Action",
       91,
-      2
+      25
     };
     Movie SpiderMan
     {
